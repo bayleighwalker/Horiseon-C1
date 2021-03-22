@@ -37,12 +37,14 @@ body {
     list-style-type: none;
 }
 
+/*added just a little more spacing to compensate for bigger font size*/
+
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 30px;
 }
 
-/*made font-size slightly bigger.*/
+/*made font-size slightly bigger*/
 
 a {
     color: #ffffff;
@@ -51,11 +53,11 @@ a {
 }
 
 
-/*made font-size bigger.*/
+/*made font-size bigger*/
 
 
 p {
-    font-size: 22px;
+    font-size: 19px;
 }
 
 .hero {
@@ -101,11 +103,12 @@ p {
     color: #ffffff;
 }
 
-/*condensed these three elements to clean up the code*/
+/*condensed these three elements to clean up the code and increased font size*/
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 24px;
 }
 
 /*condensed these three elements to clean up the code*/
