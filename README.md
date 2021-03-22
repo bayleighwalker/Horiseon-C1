@@ -5,3 +5,7 @@ Added semantic elements and fixed one navigation link by adding an id tag to the
 CSS file needed to be condensed because of repeating styles.
 
 Screenshots of code changes:
+
+Live URL link: 
+
+https://bayleighwalker.github.io/Horiseon-C1/
