@@ -6,11 +6,15 @@ CSS file needed to be condensed because of repeating styles.
 
 Screenshots of code changes:
 
-![screenshot-of-css](https://user-images.githubusercontent.com/79384523/111927420-98436c80-8a7e-11eb-8ebe-09e2dcf797b8.png)
+![css screenshot 2](https://user-images.githubusercontent.com/79384523/111928473-b78fc900-8a81-11eb-85af-b5c9e723fb8e.png)
 
-![screenshot-of-html-1](https://user-images.githubusercontent.com/79384523/111927428-9da0b700-8a7e-11eb-8f3b-71820821a4e0.png)
+![css screenshot1](https://user-images.githubusercontent.com/79384523/111928478-ba8ab980-8a81-11eb-8524-73620da90186.png)
 
-![screenshot-of-html-2](https://user-images.githubusercontent.com/79384523/111927430-a0031100-8a7e-11eb-80d6-ebe4793d10ac.png)
+
+![html screenshot 1](https://user-images.githubusercontent.com/79384523/111928580-0b021700-8a82-11eb-93e6-3841d2d392e0.png)
+
+![html screenshot 2](https://user-images.githubusercontent.com/79384523/111928582-0b9aad80-8a82-11eb-8ca6-75f41e80aeb4.png)
+
 
 
 Live URL link: 
